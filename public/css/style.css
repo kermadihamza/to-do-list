@@ -1,0 +1,15 @@
+li {
+  list-style: none;
+  border: 2px solid #e2e2e2;
+  border-radius: 6px;
+  padding-left: 15px;
+  margin-top: 3px;
+  width: 100%; }
+
+i {
+  float: right; }
+
+.container {
+  border-radius: 5px; }
+
+/*# sourceMappingURL=style.css.map */
